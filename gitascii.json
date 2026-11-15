@@ -1,0 +1,161 @@
+{
+  "username": "phoenixXdev-art",
+  "widgets": [
+    {
+      "instanceId": "widget_fee77bad-7f49-4483-b12b-8f871a44bb4f",
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "py",
+          "c",
+          "cs",
+          "js",
+          "ts",
+          "firebase",
+          "netlify",
+          "nodejs",
+          "bootstrap",
+          "mysql",
+          "mongodb",
+          "supabase",
+          "sqlite",
+          "git",
+          "java",
+          "aws",
+          "vercel"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_9cadee4b-d2ea-48e6-9ddc-c4ff83f7e04b",
+      "widgetId": "controlplane-command-deck",
+      "name": "Controlplane-command-deck Widget",
+      "position": {
+        "x": 0,
+        "y": 276
+      },
+      "size": {
+        "width": 800,
+        "height": 300
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_043bca3c-2ffa-4f8e-a048-36755e40edb0",
+      "widgetId": "asciiprofile-info",
+      "name": "Asciiprofile-info Widget",
+      "position": {
+        "x": 0,
+        "y": 592
+      },
+      "size": {
+        "width": 490,
+        "height": 400
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_453980a6-d6d6-4ff0-b177-89d69d9bcdda",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 522,
+        "y": 600
+      },
+      "size": {
+        "width": 160,
+        "height": 160
+      },
+      "config": {
+        "lockAspectRatio": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_e31637fa-6b6a-4142-85a6-b5ba28454a51",
+      "widgetId": "premium-ascii-dev-score",
+      "name": "Premium-ascii-dev-score Widget",
+      "position": {
+        "x": 0,
+        "y": 1008
+      },
+      "size": {
+        "width": 400,
+        "height": 250
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_f02f8e1f-023f-4d19-b50d-65e6e653de2d",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 0,
+        "y": 1274
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'Inter Tight', sans-serif",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "blank"
+  },
+  "templateId": "blank",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1794767995920_kg3rr",
+    "updatedAt": "2026-11-15T18:39:59.941Z"
+  }
+}
